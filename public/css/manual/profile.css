@@ -1,0 +1,40 @@
+
+h4{
+    font-size: 2rem;
+    color: #101024be;
+    text-align: center;
+  }
+
+  h5{
+    color: #101024be;
+    font-weight: 600;
+  }
+
+  p{
+    font-weight: 600;
+    color: #101024be;
+  }
+
+ legend{
+    font-weight: 500;
+    color: #101024be;
+   }
+
+label {
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block;
+  }
+
+input:not([type="submit"]),
+select {
+  padding: 1rem;
+  display: block;
+  width: 90%;
+  background-color: #e1e1e1;
+  margin-bottom: 2rem;
+  border: black;
+  border-radius: 2rem;
+}
+
+ 
